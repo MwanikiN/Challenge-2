@@ -16,5 +16,6 @@ def guess_number(num):
             return guessed_number
     
 
+print("Tweeking details")
 guess_number(num)
 print("Correct!")
