@@ -16,6 +16,6 @@ def guess_number(num):
             return guessed_number
     
 
-print("Let's play shall we?")
+print("Tweeking details")
 guess_number(num)
 print("Correct!")
